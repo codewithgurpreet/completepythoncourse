@@ -5,3 +5,4 @@
 # later in the course we will learn about othere uses
 course = "Python Programming"
 print(len(course))
+
