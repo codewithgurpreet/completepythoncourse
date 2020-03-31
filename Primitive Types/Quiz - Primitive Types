@@ -1,0 +1,20 @@
+Q1:What are the built in Primitive Types in Python?
+ANS: Numbers, Strings & Booleans. Numbers can be Integers, Floats or Complex Numbers
+
+Q2: What will be the output of these lines of code?
+    fruit = "Apple"
+    print(fruit[1])
+ANS: p
+
+Q3: What will be the output of these lines of code?
+    fruit = "Apple"
+    print(fruit[1:-1])
+ANS: ppl
+
+Q4: What is the result of this expression?
+    10 % 3
+ANS: 1
+
+Q5: What is the result of this expression?
+    print(bool("False"))
+ANS: True
